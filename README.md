@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-I am a creative problem solver with a strong foundation in mathematics and programming, combining analytical precision with technical expertise to deliver impactful software solutions. Drawing on experience from a fast-paced hedge fund, I specialize in building scalable, robust applications and optimizing workflows. With a proven ability to quickly master complex systems and mentor teams, I’m eager to contribute by writing clean, maintainable code, streamlining processes, and fostering collaboration within engineering teams.
+Creative problem solver with a strong foundation in mathematics and programming, combining analytical precision with technical expertise to deliver impactful software solutions. Brings a unique blend of experience from the fast-paced finance industry and a proven ability to build scalable, robust applications and optimize workflows. Eager to contribute to engineering teams by writing clean, maintainable code, streamlining processes, and fostering collaboration.
 
 Check out my projects!
 
